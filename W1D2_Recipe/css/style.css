@@ -1,1 +1,25 @@
-css/style
+body{
+    /* font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    line-height: 1.5; */
+    font: 15px/1.5 Arial, Helvetica ,sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: hsl(143, 96%, 50%);
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+     
+
+}
+header{
+    background: #353535;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #eb0b0b 3px solid;  
+
+
+}
