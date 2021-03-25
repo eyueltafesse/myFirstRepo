@@ -12,6 +12,12 @@ body{
 
     
 }
+
+.container1{
+    width: fit-content;
+    text-align: center;
+    overflow: hidden;
+}
 .container{
     width: 80%;
     margin: 0;
