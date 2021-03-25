@@ -15,7 +15,7 @@ body{
 
 .container1{
     width: fit-content;
-    text-align: center;
+     margin-left: 20%;
     overflow: hidden;
 }
 .container{
