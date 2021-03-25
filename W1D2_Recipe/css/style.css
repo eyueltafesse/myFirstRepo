@@ -4,18 +4,17 @@ body{
     line-height: 1.5; */
     font: 20px/1.5 Arial, Helvetica ,sans-serif;
     padding: 0;
-    margin-left: 0;
+    margin-left: auto;
     line-height: 1;
     /* background-color: hsl(143, 96%, 50%); */
     background-image: url("../img/sample2.jpg");
-    float: right;
+
     
 }
 .container{
     width: 80%;
     margin: 0;
     overflow: hidden;
-    contain: ;
     
      
 
