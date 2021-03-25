@@ -21,7 +21,8 @@ body{
 
 }
 header{
-    background: #353535;
+   text-align: center;
+    background: #252525;
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
