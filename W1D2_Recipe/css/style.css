@@ -1,6 +1,4 @@
 div#branding{
-    font-family: rgb(245, 243, 243);
-    position: center;
     margin-left: 475px;
 }
 
@@ -8,7 +6,6 @@ body{
     /* font-family:Arial, Helvetica, sans-serif;
     font-size:15px;
     line-height: 1.5; */
-    max-width: auto;
     font: 20px/1.5 Arial, Helvetica ,sans-serif;
     padding: 0;
     margin-left: auto;
