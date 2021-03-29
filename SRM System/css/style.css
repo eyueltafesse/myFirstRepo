@@ -1,0 +1,107 @@
+
+
+body{
+
+    background-image: url(../images/sample.jpg);
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1;
+}
+.Container{
+    background-color: rgb(0, 174, 255);
+    display:flex;
+}
+.Container div{
+    border: 1px #ccc solid;
+    padding: 10px;
+}
+.box-1{
+    font-size: 14px;
+    flex: 3;
+    order: 1;
+
+}
+.box-2{
+    flex:1;
+    order: 2;
+    
+}
+.box-3{
+    flex:3;
+    order: 3;
+    
+    
+}
+.box-3{
+    
+    flex:3;
+    order: 3;
+    
+    
+}
+.box-4{
+    font-size: 16px;
+    float: right; 
+    flex:3;
+    order: 3;
+   
+    
+}
+#submit-1{
+    width: 70px;;height: 35px; 
+    border-radius: 7px;
+   
+}
+.Container-1 div{
+    border: 1px #ccc;
+    padding: 10px;
+}
+.Container-1{
+    display:flex;
+}
+.Container-2 div{
+    border: 1px #ccc;
+    padding: 10px;
+}
+.Container-2{
+    display:flex;
+}
+.Container-3 div{
+    border: 1px #ccc;
+    padding: 10px;
+}
+.Container-3{
+    display:flex;
+}
+.Container-4 div{
+    border: 1px #ccc;
+    padding: 10px;
+}
+.Container-4{
+    display:flex;
+    float: right;
+}
+#reset{
+    width: 70px;;height: 35px; 
+    border-radius: 7px;
+   
+}
+#Cancel{
+    width: 70px;;height: 35px; 
+    border-radius: 7px;
+   
+}
+#Add{
+    width: 90px;;height: 35px; 
+    border-radius: 7px;
+   
+}
+
+
+
+    
+    
+
+    
+
