@@ -1,0 +1,46 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Form using Html</title>
+    <link href="./css/style.css" rel="stylsheet" type="" />
+  </head>
+  <body>
+    <header>
+    <div class="container">
+    <div id="header">
+  <h1> Form regex </h1>
+  </div> 
+</div><br>
+</header>
+  <div id = "one">
+      <Form>
+       <div>Email Adress:<br>
+       	<textarea name="Email" rows="3" cols="70">Enter your Email</textarea><br>
+
+       	We Will never share your email with anyone else:
+
+       </div>
+       <br>
+       <br>
+
+       <div id="two">Password:<br>
+       	<textarea name="Email" rows="3" cols="70">Password</textarea> <br>
+
+       </div>
+
+       </Form>
+    </div>
+      <input type="checkbox" name="condiment" value="check me out"/>check me out<br>
+
+
+    <Form action="demo_form.jsp">
+
+    <input type="password" name="Password" pattern=
+    "(?=^.{10,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" titel="Ten letter Password">
+    <input type="Submit" name=""></Form>
+    
+  </body>
+</html>		  		
+
