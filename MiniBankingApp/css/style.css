@@ -204,18 +204,6 @@ body{
     border-radius: 100px;
 
 }
-  .wrapper{
-
-      /* border: 3px white solid;
-      padding: 20%;
-      margin: 0; */
-    /* display: flex;
-    float: right;  */
-      /* width: 100%;
-     height: 100vh;
-      text-align:center;  */
-     
-  }
 
   .nav{
       width: 30px;
@@ -252,6 +240,13 @@ body{
 .nav:hover div{
     width: 30px;
 }
+.footer-1{
+    
+    background-color: antiquewhite;
+    font-size: 70px;
+    text-align: center;
+  }
+
   
 
 
