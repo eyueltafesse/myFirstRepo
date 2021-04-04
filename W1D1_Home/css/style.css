@@ -1,0 +1,11 @@
+body{
+
+    background-image: url(../images/sampleH.jpg);
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
