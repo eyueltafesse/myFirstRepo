@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+Hello World
+
+  <form action="">
+  
+  Enter the first Number:<input type="text" name="num1">
+  Enter the second Number:<input type="text" name="num2">
+  
+  </form>
+
+</body>
+</html>
